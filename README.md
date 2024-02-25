@@ -1,2 +1,2 @@
 # Game-Development
-Developing a Starship game using C#
+Developing a Spaceship game using C#
